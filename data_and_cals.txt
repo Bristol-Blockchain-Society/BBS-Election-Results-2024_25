@@ -1,0 +1,74 @@
+Candidate Index Map for President: {'Otto Robertson': 0, 'Zeyn Cooper': 1, 'Borys Babushkin Fynkelshteyn': 2, 'Theodoros Constantinides': 3, 'Gadimov Javad': 4, 'Renominate': 5}
+Ballot Indices for President: [[0, 1, 2, 3, 4, 5], [0, 2, 1, 3, 4, 5], [0, 1, 2, 5, 3, 4], [2, 0, 1, 3, 4, 5], [2, 0, 1, 4, 3, 5], [0, 2, 4, 3, 1, 5], [3, 0, 1, 2, 4, 5], [0, 4, 2, 3, 1, 5], [1, 2, 0, 3, 4, 5], [1, 0, 2, 3, 5, 4], [1, 2, 0, 3, 4, 5], [0, 1, 2, 3, 4, 5], [0, 2, 1, 3, 4, 5], [1, 0, 2, 3, 4, 5], [2, 0, 1, 3, 4, 5], [2, 0, 1, 3, 4, 5], [2, 0, 3, 1, 4, 5], [0, 2, 1, 3, 4, 5], [0, 1, 2, 4, 3, 5], [2, 1, 0, 3, 4, 5], [2, 1, 0, 3, 4, 5], [1, 0, 2, 3, 4, 5], [1, 0, 3, 2, 5, 4]]
+Election Results for President
+ROUND 1
+Candidate                       Votes  Status
+----------------------------  -------  --------
+Otto Robertson                      9  Elected
+Borys Babushkin Fynkelshteyn        7  Hopeful
+Zeyn Cooper                         6  Hopeful
+Theodoros Constantinides            1  Hopeful
+Gadimov Javad                       0  Hopeful
+Renominate                          0  Hopeful
+
+ROUND 2
+Candidate                       Votes  Status
+----------------------------  -------  --------
+Otto Robertson                   7.67  Elected
+Borys Babushkin Fynkelshteyn     7.59  Hopeful
+Zeyn Cooper                      6.59  Hopeful
+Theodoros Constantinides         1.00  Rejected
+Gadimov Javad                    0.15  Rejected
+Renominate                       0.00  Rejected
+
+FINAL RESULT
+Candidate                       Votes  Status
+----------------------------  -------  --------
+Otto Robertson                   7.67  Elected
+Borys Babushkin Fynkelshteyn     7.74  Elected
+Zeyn Cooper                      7.59  Rejected
+Theodoros Constantinides         0.00  Rejected
+Gadimov Javad                    0.00  Rejected
+Renominate                       0.00  Rejected
+
+The winners are: ['Otto Robertson', 'Borys Babushkin Fynkelshteyn']
+############################################
+Candidate Index Map for Advisor: {'Rooj Rinchokechai': 0, 'Vlad Kirilovics': 1, 'Theodoros Constantinides': 2, 'Renominate': 3}
+Ballot Indices for Advisor: [[0, 1, 2, 3], [0, 2, 1, 3], [2, 0, 1, 3], [1, 0, 2, 3], [1, 2, 0, 3], [2, 0, 1, 3], [2, 0, 1, 3], [2, 0, 1, 3], [2, 0, 1, 3], [2, 0, 1, 3], [0, 2, 1, 3], [2, 0, 1, 3], [2, 0, 1, 3], [0, 2, 1, 3], [0, 2, 1, 3], [1, 0, 2, 3], [2, 0, 1, 3], [0, 2, 1, 3], [1, 0, 2, 3], [0, 2, 1, 3]]
+Election Results for Advisor
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Theodoros Constantinides        9  Elected
+Rooj Rinchokechai               7  Elected
+Vlad Kirilovics                 4  Rejected
+Renominate                      0  Rejected
+
+The winners are: ['Theodoros Constantinides', 'Rooj Rinchokechai']
+############################################
+Candidate Index Map for Outreach: {'Oliver Bonallack': 0, 'Zeyn Cooper': 1, 'Renominate': 2}
+Ballot Indices for Outreach: [[0, 1, 2], [0, 1, 2], [1, 0, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2], [1, 0, 2], [1, 0, 2], [1, 0, 2], [0, 1, 2], [0, 1, 2], [1, 0, 2], [1, 0, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2], [1, 0, 2], [0, 1, 2]]
+Election Results for Outreach
+FINAL RESULT
+Candidate           Votes  Status
+----------------  -------  --------
+Oliver Bonallack       12  Elected
+Zeyn Cooper             7  Rejected
+Renominate              0  Rejected
+
+The winners are: ['Oliver Bonallack']
+############################################
+Candidate Index Map for Media: {'Firmina Lazar': 0, 'Vlad Kirilovics': 1, 'Renominate': 2}
+Ballot Indices for Media: [[0, 1, 2], [0, 1, 2], [1, 0, 2], [1, 0, 2], [0, 1, 2], [0, 1, 2], [1, 0, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2]]
+Election Results for Media
+FINAL RESULT
+Candidate          Votes  Status
+---------------  -------  --------
+Firmina Lazar          7  Elected
+Vlad Kirilovics        3  Rejected
+Renominate             0  Rejected
+
+The winners are: ['Firmina Lazar']
+############################################
+
+Process finished with exit code 0
