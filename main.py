@@ -64,3 +64,6 @@ process_election('Outreach', number_of_seats=1)
 
 # Process elections for Media Officer
 process_election('Media', number_of_seats=1)
+
+# Process elections for Secretary
+process_election('Secretary', number_of_seats=1)
