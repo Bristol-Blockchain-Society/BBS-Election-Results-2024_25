@@ -70,5 +70,17 @@ Renominate             0  Rejected
 
 The winners are: ['Firmina Lazar']
 ############################################
+Candidate Index Map for Secretary: {'Ta Chanseewong': 0, 'Renominate': 1}
+Ballot Indices for Secretary: [[0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1], [0, 1]]
+Election Results for Secretary
+FINAL RESULT
+Candidate         Votes  Status
+--------------  -------  --------
+Ta Chanseewong       23  Elected
+Renominate            0  Rejected
+
+The winners are: ['Ta Chanseewong']
+############################################
+
 
 Process finished with exit code 0
