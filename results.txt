@@ -1,7 +1,7 @@
 President: Otto Robertson
 Vice-President: Borys Babushkin Fynkelshteyn
 Advisor: Theodoros Constantinides, Rooj Rinchokechai
-Secretary: -
+Secretary: Ta Chanseewong
 Treasurer: Zeyn Cooper [Auto-elected]
 Equality Officer: Vlad Kirilovics [Auto-elected]
 Outreach Officer: Oliver Bonallack
@@ -9,3 +9,8 @@ Media Officer: Firmina Lazar
 Hackathon: Arnav Peehal [Auto-elected]
 
 Additional Note: [Auto-elected] means that there is no competitors.
+For example, person A, B, C want to be Treasurer.
+A also applied for President.
+B also applied for Vice-President. 
+The results came out that A won the election for President and B won the election for Vice-President.
+Therefore, C is automatically Treasurer.
